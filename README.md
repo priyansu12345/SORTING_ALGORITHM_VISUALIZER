@@ -58,5 +58,3 @@ sorting-visualizer/
    ```bash
    npm start
    ```
-
-The
